@@ -128,6 +128,9 @@ cover:
   # When cover is not set, the default cover is displayed (當沒有設置cover時，默認的封面顯示)
   default_cover:
      - https://i.loli.net/2020/05/01/gkihqEjXxJ5UZ1C.jpg
+     - https://cdn.pixabay.com/photo/2021/10/25/07/03/eagle-6740066_960_720.jpg
+     - https://cdn.pixabay.com/photo/2016/04/20/19/47/wolves-1341881_960_720.jpg
+     - https://cdn.pixabay.com/photo/2015/04/19/08/32/rose-729509_960_720.jpg
 
 # Replace Broken Images (替換無法顯示的圖片)
 error_img:
