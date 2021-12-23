@@ -6,4 +6,4 @@ type: "link"
 
 # this is a link
 
-<++>
+[MyGallery](/MyGallery)

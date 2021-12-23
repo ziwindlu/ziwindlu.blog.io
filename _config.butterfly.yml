@@ -43,7 +43,7 @@ copy:
 #   icon: link || the description
 social:
    fab fa-github: https://github.com/ziwindlu || Github
-   fas fa-envelope: mailto:2043211096@qq.com || Email
+   fas fa-envelope: mailto:2943211096@qq.com || Email
 
 # search (搜索)
 # --------------------------------------
@@ -127,10 +127,12 @@ cover:
   position: both
   # When cover is not set, the default cover is displayed (當沒有設置cover時，默認的封面顯示)
   default_cover:
-     - https://i.loli.net/2020/05/01/gkihqEjXxJ5UZ1C.jpg
-     - https://cdn.pixabay.com/photo/2021/10/25/07/03/eagle-6740066_960_720.jpg
-     - https://cdn.pixabay.com/photo/2016/04/20/19/47/wolves-1341881_960_720.jpg
-     - https://cdn.pixabay.com/photo/2015/04/19/08/32/rose-729509_960_720.jpg
+    - https://cdn.pixabay.com/photo/2016/04/20/19/47/wolves-1341881_960_720.jpg
+    - https://cdn.pixabay.com/photo/2015/04/19/08/32/rose-729509_960_720.jpg
+    - https://cdn.pixabay.com/photo/2015/04/19/08/32/rose-729509_960_720.jpg 
+    - https://cdn.pixabay.com/photo/2015/04/08/15/09/daisies-712892_960_720.jpg
+    - https://cdn.pixabay.com/photo/2013/07/02/22/20/bouquet-142876_960_720.jpg
+    - https://cdn.pixabay.com/photo/2016/09/03/23/18/rose-1642970_960_720.jpg
 
 # Replace Broken Images (替換無法顯示的圖片)
 error_img:
@@ -507,7 +509,7 @@ tag_ui: # 留空或 index
 # can set it to color or image (可設置圖片 或者 顔色)
 # The formal of image: url(http://xxxxxx.com/xxx.jpg)
 background:
-
+    url(https://cdn.pixabay.com/photo/2016/05/02/22/16/apple-blossom-1368187_960_720.jpg)
 # Footer Background
 footer_bg: 
 
@@ -549,8 +551,8 @@ canvas_nest:
 # https://github.com/disjukr/activate-power-mode
 activate_power_mode:
   enable: false
-  colorful: true # open particle animation (冒光特效)
-  shake: true #  open shake (抖動特效)
+  colorful: false # open particle animation (冒光特效)
+  shake: false #  open shake (抖動特效)
   mobile: false
 
 # Mouse click effects: fireworks (鼠標點擊效果: 煙火特效)
@@ -703,7 +705,7 @@ newest_comments:
 # --------------------------------------
 
 # Change font size
-change_font_size: false
+change_font_size: true
 
 # Conversion between Traditional and Simplified Chinese (簡繁轉換)
 translate:
