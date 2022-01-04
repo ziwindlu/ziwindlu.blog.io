@@ -1,7 +1,7 @@
 ---
 title: 使用GithubPage搭建个人博客
 date: 2021-11-26 14:00:18
-tags: [Hexo]
+tags: [hexo,git,Linux]
 categories: 
 	- [上课用]
 	- [教程]
